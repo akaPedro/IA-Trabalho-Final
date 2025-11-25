@@ -26,8 +26,11 @@ print(f"Nível de triagem: {resultado}")  # Laranja
 # Funcionalidades
 
    Avaliação automática baseada em sinais vitais e sintomas
+   
    Classificação por cores conforme Protocolo Manchester
+   
    Entrada flexível de dados do paciente
+   
    Lógica hierárquica priorizando casos críticos
 
 # Importante
